@@ -4,6 +4,9 @@
 
 This script generates a blog post using the Bedrock AI model and saves it to an AWS S3 bucket.
 
+![Blog-Generation-With-AWS-Bedrock](https://github.com/alizeeshan-07/Blog-Generation-using-AWSBedrock/assets/70628992/bf0f8b76-0ad3-4562-8760-538f50267833)
+
+
 **Requirements**
 
 - Python 3.10+
